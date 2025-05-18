@@ -1,0 +1,6 @@
+fastapi==0.110.*
+uvicorn==0.29.*
+pandas==2.*
+pytest==8.*
+hypothesis==6.*
+requests==2.*
